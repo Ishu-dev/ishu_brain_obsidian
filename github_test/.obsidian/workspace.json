@@ -6,6 +6,7 @@
       {
         "id": "cbdf0dcc23cdf0f6",
         "type": "tabs",
+        "dimension": 58.05825242718446,
         "children": [
           {
             "id": "7ff71ef98837b7b5",
@@ -64,13 +65,17 @@
             }
           },
           {
-            "id": "67c465ba8d0e6b67",
+            "id": "d401fb09eb84d575",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled 2"
             }
           }
         ],
@@ -79,6 +84,7 @@
       {
         "id": "af5309310db997bc",
         "type": "tabs",
+        "dimension": 41.94174757281554,
         "children": [
           {
             "id": "3199dc93c896a60e",
@@ -109,7 +115,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -163,6 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +179,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Untitled 2"
             }
           },
           {
@@ -181,11 +188,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Untitled 2"
             }
           },
           {
@@ -223,12 +231,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Untitled 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Untitled 2"
             }
           }
         ]
@@ -247,11 +256,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "audio-recorder:Start/stop recording": false,
+      "publish:Publish changes...": false
     }
   },
-  "active": "3199dc93c896a60e",
+  "active": "d401fb09eb84d575",
   "lastOpenFiles": [
+    "Untitled 2.md",
     "lonooooooogggggggg.md",
     "Untitled 1.md",
     "tessting git plugin.md",
