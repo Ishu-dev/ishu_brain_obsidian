@@ -6,7 +6,7 @@
       {
         "id": "cbdf0dcc23cdf0f6",
         "type": "tabs",
-        "dimension": 23.323615160349853,
+        "dimension": 37.92325056433409,
         "children": [
           {
             "id": "d401fb09eb84d575",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Progress Log - April 1 to April 9, 2026.md",
+                "file": "02 People/02.01 Mentors/NehaJ Senior.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Progress Log - April 1 to April 9, 2026"
+              "title": "NehaJ Senior"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "af5309310db997bc",
         "type": "tabs",
-        "dimension": 76.67638483965014,
+        "dimension": 62.07674943566591,
         "children": [
           {
             "id": "3199dc93c896a60e",
@@ -231,6 +231,22 @@
   },
   "active": "3199dc93c896a60e",
   "lastOpenFiles": [
+    "02 People/02.01 Mentors/NehaJ Senior.md",
+    "02 People/02.02 Peers/Dhriti.md",
+    "02 People/02.02 Peers/Anuradha.md",
+    "02 People/02.02 Peers",
+    "02 People/02.01 Mentors/HavishM Sir.md",
+    "Progress Log - April 1 to April 9, 2026.md",
+    "02 People/02.01 Mentors",
+    "02 People/02.02 Peers/Rohith.md",
+    "02 People/02.02 Peers/Mahika.md",
+    "02 People/02.02 Peers/Ishu.md",
+    "Untitled.md",
+    "05 Mentors",
+    "04 Apps & tools",
+    "03 Projects",
+    "02 People",
+    "01 Daily Notes",
     "April 1.md",
     "April 2.md",
     "tessting git plugin.md",
@@ -240,7 +256,6 @@
     "hi.md",
     "lonooooooogggggggg.md",
     "Untitled 1.md",
-    "Progress Log - April 1 to April 9, 2026.md",
     "test folder"
   ]
 }
