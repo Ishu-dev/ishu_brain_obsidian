@@ -1,0 +1,10 @@
+- **End-to-End "[[Bionic Workforce]]" Engine** ([[Ishu]]): Engineered a full-stack automation analyzer. 
+  - *Status*: Done
+  - *Challenge*: Structuring unstructured text into strict [[JSON]] arrays for financial calculations.
+- **"Two-Step" Agentic Architecture** ([[Mahika]]): Implemented a multi-prompt chain using an [[LLM]].
+  - *Status*: Done
+- **[[LLM]] Versioning & Parameter Validation** ([[Ishu]]): Verified local [[Ollama]] configuration running [[Llama 3]].
+  - *Status*: Done
+- **4-Quadrant Enterprise Dashboard** ([[Mahika]]): Designed a secure interface utilizing [[Gradio]] Tabs, [[HTML]], and [[CSS]].
+  - *Status*: Done
+- 
