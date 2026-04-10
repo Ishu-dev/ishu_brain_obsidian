@@ -5,13 +5,27 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "[\"tags\":",
       "color": {
         "a": 1,
         "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"02 People/02.01 Mentors\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 1654743
+      }
+    },
+    {
+      "query": "path:\"02 People\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
       }
     }
   ],
@@ -25,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7350470367303783,
+  "scale": 0.7202952787486326,
   "close": true
 }
