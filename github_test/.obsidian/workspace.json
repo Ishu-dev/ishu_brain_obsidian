@@ -125,7 +125,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Daily Notes/2026-04-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-04-01"
+              "title": "Backlinks"
             }
           },
           {
@@ -144,12 +143,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Daily Notes/2026-04-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2026-04-01"
+              "title": "Outgoing links"
             }
           },
           {
@@ -187,13 +185,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Daily Notes/2026-04-01.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-04-01"
+              "title": "Outline"
             }
           },
           {
@@ -201,11 +198,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "01 Daily Notes/2026-04-01.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for 2026-04-01"
+              "title": "File properties"
             }
           }
         ],
@@ -230,7 +225,7 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "3199dc93c896a60e",
+  "active": "4090942ba971f49b",
   "lastOpenFiles": [
     "01 Daily Notes/2026-04-01.md",
     "Progress Log - April 1 to April 9, 2026.md",
