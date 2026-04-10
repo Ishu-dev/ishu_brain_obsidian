@@ -1,9 +1,0 @@
-- **Codebase Modularization** ([[Team]]): Planned refactoring of `app.py` into distinct functional modules.
-  - *Status*: Not Started
-  - *Challenge*: Needs careful mapping of [[Python]] import statements.
-- **[[Excalidraw]] Direct Integration** ([[Team]] / [[Ishu]]): Embedded an [[Excalidraw]] iframe into the [[Gradio]] UI.
-  - *Status*: Done
-  - *Challenge*: [[Claude]] Desktop MCP server crashed.
-- **AI Decision Synthesizer Interface** ([[Mahika]]): Created an application interface wireframe on [[Excalidraw]] using [[Claude]] connectors via [[Google AI Studio]].
-  - *Status*: Done
-- 
