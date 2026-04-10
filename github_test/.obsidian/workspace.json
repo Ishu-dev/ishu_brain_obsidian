@@ -125,7 +125,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for hi"
+              "title": "Backlinks"
             }
           },
           {
@@ -144,12 +143,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from hi"
+              "title": "Outgoing links"
             }
           },
           {
@@ -187,13 +185,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hi.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of hi"
+              "title": "Outline"
             }
           }
         ]
@@ -214,9 +211,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "4ca05738aa69d2ec",
+  "active": "17f67798e595e063",
   "lastOpenFiles": [
-    "Welcome.md",
-    "hi.md"
+    "hi.md",
+    "create a link.md",
+    "Welcome.md"
   ]
 }
