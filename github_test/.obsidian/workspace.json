@@ -67,6 +67,20 @@
             }
           },
           {
+            "id": "36f95392c1b4ddc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
             "id": "a2e6a53221db84ee",
             "type": "leaf",
             "state": {
@@ -80,7 +94,8 @@
               "title": "2nd test"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -153,6 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2nd test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +178,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 2nd test"
             }
           },
           {
@@ -171,11 +187,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2nd test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 2nd test"
             }
           },
           {
@@ -213,12 +230,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "2nd test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2nd test"
             }
           }
         ]
@@ -240,8 +258,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "17f67798e595e063",
+  "active": "a2e6a53221db84ee",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "Untitled.md",
+    "test folder",
     "tessting git plugin.md",
     "2nd test.md",
     "Welcome.md",
