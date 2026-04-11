@@ -6,7 +6,7 @@
       {
         "id": "cbdf0dcc23cdf0f6",
         "type": "tabs",
-        "dimension": 33.821376281112734,
+        "dimension": 46.266471449487554,
         "children": [
           {
             "id": "d401fb09eb84d575",
@@ -70,16 +70,20 @@
       {
         "id": "3e3aef9408b042ed",
         "type": "tabs",
-        "dimension": 66.17862371888727,
+        "dimension": 53.733528550512446,
         "children": [
           {
             "id": "0c530fcca87a0805",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "03 Projects/Idea.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Idea"
             }
           },
           {
@@ -169,6 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "03 Projects/Idea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +183,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Idea"
             }
           },
           {
@@ -187,11 +192,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "03 Projects/Idea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Idea"
             }
           },
           {
@@ -229,12 +235,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "03 Projects/Idea.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Idea"
             }
           },
           {
@@ -242,9 +249,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "03 Projects/Idea.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for Idea"
             }
           }
         ],
@@ -274,6 +283,7 @@
   },
   "active": "0c530fcca87a0805",
   "lastOpenFiles": [
+    "03 Projects/Idea.md",
     "Clippings/Tutorial  Getting Started with Google Antigravity.md",
     "Clippings/llm-wiki.md",
     "Clippings/how to use obsidian web clipper in chrome.md",
@@ -308,7 +318,6 @@
     "03 Projects",
     "02 People",
     "01 Daily Notes",
-    "April 1.md",
     "05 Mentors/test folder"
   ]
 }
