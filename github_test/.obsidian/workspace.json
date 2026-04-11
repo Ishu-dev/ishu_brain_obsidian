@@ -78,12 +78,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Projects/Idea.md",
+                "file": "01 Daily Notes/2026-04-09.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Idea"
+              "title": "2026-04-09"
             }
           },
           {
@@ -99,8 +99,19 @@
               "icon": "lucide-file",
               "title": "test Google AI Studio obsidian web clipper test"
             }
+          },
+          {
+            "id": "91966291a1ae236b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -173,7 +184,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Projects/Idea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +193,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Idea"
+              "title": "Backlinks"
             }
           },
           {
@@ -192,12 +202,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Projects/Idea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Idea"
+              "title": "Outgoing links"
             }
           },
           {
@@ -235,13 +244,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Projects/Idea.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Idea"
+              "title": "Outline"
             }
           },
           {
@@ -249,11 +257,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "03 Projects/Idea.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for Idea"
+              "title": "File properties"
             }
           }
         ],
@@ -281,13 +287,14 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "0c530fcca87a0805",
+  "active": "91966291a1ae236b",
   "lastOpenFiles": [
+    "test Google AI Studio obsidian web clipper test.md",
+    "01 Daily Notes/2026-04-09.md",
     "03 Projects/Idea.md",
     "Clippings/Tutorial  Getting Started with Google Antigravity.md",
     "Clippings/llm-wiki.md",
     "Clippings/how to use obsidian web clipper in chrome.md",
-    "test Google AI Studio obsidian web clipper test.md",
     "Clippings/Google AI Studio.md",
     "GitHub Pages.md",
     "Gist.md",
@@ -296,7 +303,6 @@
     "Untitled.canvas",
     "GitHub.md",
     "01 Daily Notes/2026-04-08.md",
-    "01 Daily Notes/2026-04-09.md",
     "02 People/02.02 Peers/Ishu.md",
     "01 Daily Notes/2026-04-07.md",
     "01 Daily Notes/2026-04-06.md",
