@@ -42,7 +42,7 @@ Obsidian Web Clipper is a free browser extension that lets you *highlight pages 
 
   
 
-Obsidian
+Obsidian[[llm-wiki]]
 
 https://obsidian.md › clipper
 
