@@ -118,7 +118,7 @@ Today's focus was on the foundational development of the **Bionic Workforce Engi
 
 **Task:** 4-Quadrant Enterprise Dashboard
 
-- **Owner:** \[\[Mahika\]\]
+- **Owner:** \[\[Mahika\]\][[GitHub Pages]]
 - **Priority:** 🟡 Medium
 - **Description:** Designed a secure, professional interface utilizing \[\[Gradio\]\] Tabs. Successfully injected custom HTML, CSS, and Chart.js via iframe to render dynamic financial ROI metrics and a 2x2 Effort vs. Impact scatter plot directly within the Python app.
 - **Deliverable:** Dashboard UI
