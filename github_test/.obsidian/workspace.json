@@ -104,10 +104,14 @@
             "id": "91966291a1ae236b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "01 Daily Notes/2026-04-11.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-11"
             }
           }
         ],
@@ -184,6 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01 Daily Notes/2026-04-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +198,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 2026-04-11"
             }
           },
           {
@@ -202,11 +207,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01 Daily Notes/2026-04-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 2026-04-11"
             }
           },
           {
@@ -244,12 +250,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "01 Daily Notes/2026-04-11.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2026-04-11"
             }
           },
           {
@@ -257,9 +264,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "01 Daily Notes/2026-04-11.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for 2026-04-11"
             }
           }
         ],
@@ -289,6 +298,7 @@
   },
   "active": "91966291a1ae236b",
   "lastOpenFiles": [
+    "01 Daily Notes/2026-04-11.md",
     "test Google AI Studio obsidian web clipper test.md",
     "01 Daily Notes/2026-04-09.md",
     "03 Projects/Idea.md",
@@ -318,7 +328,6 @@
     "02 People/02.01 Mentors/HavishM Sir.md",
     "02 People/02.01 Mentors",
     "02 People/02.02 Peers/Rohith.md",
-    "02 People/02.02 Peers/Mahika.md",
     "05 Mentors",
     "04 Apps & tools",
     "03 Projects",
